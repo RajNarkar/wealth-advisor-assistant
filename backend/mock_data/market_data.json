@@ -1,0 +1,22 @@
+{
+  "benchmarks": {
+    "SP500": {"name": "S&P 500 Index", "ytd_return": 0.214, "volatility": 0.138, "current_level": 5780.20},
+    "UST10Y": {"name": "US 10-Year Treasury Yield", "current_yield": 0.0408, "ytd_return": 0.024, "rating": "AAA"},
+    "CORPBOND": {"name": "Investment Grade Corporate Bond ETF", "current_yield": 0.052, "ytd_return": 0.048},
+    "VTSAX": {"name": "Vanguard Total Stock Market", "ytd_return": 0.201, "volatility": 0.142},
+    "CASH": {"name": "Fed Funds / US Treasury Bills", "current_yield": 0.0485}
+  },
+  "asset_quotes": {
+    "AAPL": {"price": 231.50, "pe_ratio": 34.2, "day_change_pct": 0.012, "sector": "Technology"},
+    "MSFT": {"price": 422.80, "pe_ratio": 35.8, "day_change_pct": -0.004, "sector": "Technology"},
+    "NVDA": {"price": 138.25, "pe_ratio": 62.1, "day_change_pct": 0.038, "sector": "Semiconductors"},
+    "TSLA": {"price": 218.40, "pe_ratio": 68.4, "day_change_pct": -0.018, "sector": "Consumer Discretionary"},
+    "BTC": {"price": 63400.0, "day_change_pct": 0.025, "volatility_annualized": 0.54, "sector": "Cryptocurrency"}
+  },
+  "macro_indicators": {
+    "inflation_cpi": 0.025,
+    "fed_target_rate": 0.0475,
+    "market_sentiment": "greed",
+    "volatility_vix": 15.3
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "client_id": "C001",
+    "name": "Alice Morgan",
+    "age": 45,
+    "risk_profile": "moderate",
+    "annual_income": 185000,
+    "goals": ["Retirement at 60", "Children College Fund (2028)", "Preserve Capital"],
+    "portfolio": {
+      "total_value": 850000,
+      "assets": [
+        {"type": "equity", "ticker": "AAPL", "value": 220000, "weight": 0.2588},
+        {"type": "equity", "ticker": "MSFT", "value": 180000, "weight": 0.2118},
+        {"type": "bond", "ticker": "UST10Y", "value": 250000, "weight": 0.2941},
+        {"type": "cash", "ticker": "USD", "value": 100000, "weight": 0.1176},
+        {"type": "mutual_fund", "ticker": "VTSAX", "value": 100000, "weight": 0.1176}
+      ]
+    },
+    "transactions": [
+      {"txn_id": "T101", "date": "2024-07-15", "type": "buy", "ticker": "AAPL", "amount": 15000},
+      {"txn_id": "T102", "date": "2024-08-01", "type": "buy", "ticker": "UST10Y", "amount": 25000},
+      {"txn_id": "T103", "date": "2024-08-20", "type": "buy", "ticker": "MSFT", "amount": 18000},
+      {"txn_id": "T104", "date": "2024-09-05", "type": "sell", "ticker": "AAPL", "amount": 12000},
+      {"txn_id": "T105", "date": "2024-09-28", "type": "buy", "ticker": "VTSAX", "amount": 20000},
+      {"txn_id": "T106", "date": "2024-10-02", "type": "sell", "ticker": "MSFT", "amount": 195000}
+    ]
+  },
+  {
+    "client_id": "C002",
+    "name": "David Sterling",
+    "age": 34,
+    "risk_profile": "aggressive",
+    "annual_income": 320000,
+    "goals": ["Aggressive Growth", "Tech Startup Angel Fund", "Real Estate Acquisition"],
+    "portfolio": {
+      "total_value": 1250000,
+      "assets": [
+        {"type": "equity", "ticker": "NVDA", "value": 550000, "weight": 0.4400},
+        {"type": "equity", "ticker": "TSLA", "value": 300000, "weight": 0.2400},
+        {"type": "crypto", "ticker": "BTC", "value": 250000, "weight": 0.2000},
+        {"type": "cash", "ticker": "USD", "value": 150000, "weight": 0.1200}
+      ]
+    },
+    "transactions": [
+      {"txn_id": "T201", "date": "2024-06-10", "type": "buy", "ticker": "NVDA", "amount": 40000},
+      {"txn_id": "T202", "date": "2024-07-04", "type": "buy", "ticker": "TSLA", "amount": 35000},
+      {"txn_id": "T203", "date": "2024-08-11", "type": "buy", "ticker": "BTC", "amount": 50000},
+      {"txn_id": "T204", "date": "2024-09-02", "type": "buy", "ticker": "NVDA", "amount": 45000},
+      {"txn_id": "T205", "date": "2024-10-05", "type": "buy", "ticker": "BTC", "amount": 380000}
+    ]
+  },
+  {
+    "client_id": "C003",
+    "name": "Eleanor Vance",
+    "age": 67,
+    "risk_profile": "conservative",
+    "annual_income": 95000,
+    "goals": ["Wealth Preservation", "Stable Retirement Annuity", "Healthcare Contingency"],
+    "portfolio": {
+      "total_value": 620000,
+      "assets": [
+        {"type": "bond", "ticker": "UST10Y", "value": 340000, "weight": 0.5484},
+        {"type": "bond", "ticker": "CORPBOND", "value": 150000, "weight": 0.2419},
+        {"type": "cash", "ticker": "USD", "value": 90000, "weight": 0.1452},
+        {"type": "equity", "ticker": "VTSAX", "value": 40000, "weight": 0.0645}
+      ]
+    },
+    "transactions": [
+      {"txn_id": "T301", "date": "2024-05-15", "type": "buy", "ticker": "UST10Y", "amount": 10000},
+      {"txn_id": "T302", "date": "2024-07-20", "type": "buy", "ticker": "CORPBOND", "amount": 15000},
+      {"txn_id": "T303", "date": "2024-09-10", "type": "withdrawal", "ticker": "USD", "amount": 12000}
+    ]
+  }
+]

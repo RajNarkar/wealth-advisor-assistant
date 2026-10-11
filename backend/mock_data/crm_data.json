@@ -1,0 +1,44 @@
+{
+  "C001": {
+    "client_id": "C001",
+    "kyc_status": "verified",
+    "kyc_last_reviewed": "2024-03-15",
+    "relationship_manager": "Sarah Jenkins, CFA",
+    "tier": "Private Wealth Preferred",
+    "contact_preference": "email",
+    "risk_tolerance_score": 58,
+    "notes": "Client requested review of technology exposure before Q4 tax planning. Inquired about tax-loss harvesting options.",
+    "last_meeting_date": "2024-08-15",
+    "life_events": [
+      {"event": "First child entering college in 2028", "status": "planning"}
+    ]
+  },
+  "C002": {
+    "client_id": "C002",
+    "kyc_status": "verified",
+    "kyc_last_reviewed": "2024-06-20",
+    "relationship_manager": "Marcus Zhao",
+    "tier": "Ultra High Net Worth Emerging",
+    "contact_preference": "phone",
+    "risk_tolerance_score": 88,
+    "notes": "High appetite for volatility and crypto assets. Explicitly advised on concentration hazards in single-name semiconductor stocks.",
+    "last_meeting_date": "2024-09-01",
+    "life_events": [
+      {"event": "Series A startup equity liquidity event expected in 2025", "status": "incoming"}
+    ]
+  },
+  "C003": {
+    "client_id": "C003",
+    "kyc_status": "verified",
+    "kyc_last_reviewed": "2024-01-10",
+    "relationship_manager": "Sarah Jenkins, CFA",
+    "tier": "Retirement Shield Advisory",
+    "contact_preference": "in-person",
+    "risk_tolerance_score": 25,
+    "notes": "Focused strictly on income generation and capital safety. Sensitive to inflation risk and fixed-income duration risk.",
+    "last_meeting_date": "2024-07-22",
+    "life_events": [
+      {"event": "Downsizing primary residence", "status": "completed"}
+    ]
+  }
+}

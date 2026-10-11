@@ -1,0 +1,32 @@
+# Environment Variables (Sensitive API keys)
+.env
+*.env
+!.env.example
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# System and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs and Local Databases
+logs/*.log
+*.log
+
+# Streamlit Local Cache
+.streamlit/

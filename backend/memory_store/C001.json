@@ -1,0 +1,50 @@
+{
+  "client_id": "C001",
+  "sessions_count": 6,
+  "sessions": [
+    {
+      "session_id": "test_sess_001",
+      "timestamp": 1791703488.697667,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    },
+    {
+      "session_id": "test_sess_001",
+      "timestamp": 1791703587.9933228,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    },
+    {
+      "session_id": "sess_987dfb63",
+      "timestamp": 1791704035.8925111,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    },
+    {
+      "session_id": "sess_241085c4",
+      "timestamp": 1791704162.2854905,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### INSTITUTIONAL WEALTH ADVISORY REPORT\n\n**Prepared By:** Elite AI Wealth Advisor Assistant  \n**Reviewed By:** Sarah Jenkins, CFA (Private Wealth Management)  \n**Client:** Alice Morgan (ID: C001) | T..."
+    },
+    {
+      "session_id": "sess_53ff9380",
+      "timestamp": 1791704551.2902954,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### INSTITUTIONAL WEALTH ADVISORY REPORT\n\n**Prepared By:** Elite AI Wealth Advisor Assistant  \n**Reviewed By:** Sarah Jenkins, CFA (Private Wealth Management)  \n**Client:** Alice Morgan (ID: C001) | P..."
+    },
+    {
+      "session_id": "test_sess_001",
+      "timestamp": 1791706866.4952426,
+      "anomalies_detected": 4,
+      "risk_score": 95,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    }
+  ],
+  "cumulative_notes": "Client has recurring anomaly flags (4 in latest session). Continuous monitoring advised.",
+  "last_updated": 1791706866.4952426
+}

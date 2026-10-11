@@ -1,0 +1,29 @@
+{
+  "client_id": "C002",
+  "sessions_count": 3,
+  "sessions": [
+    {
+      "session_id": "sess_93142b2a",
+      "timestamp": 1791703552.0095975,
+      "anomalies_detected": 2,
+      "risk_score": 98,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    },
+    {
+      "session_id": "sess_83a8cb3f",
+      "timestamp": 1791703595.471078,
+      "anomalies_detected": 2,
+      "risk_score": 98,
+      "summary": "### Wealth Advisory Assessment & Strategic Recommendations\n\n**Executive Summary:**\nBased on the analysis of the client's current portfolio composition, transaction cadence, and declared risk appetite,..."
+    },
+    {
+      "session_id": "sess_b61d6611",
+      "timestamp": 1791706874.53538,
+      "anomalies_detected": 2,
+      "risk_score": 98,
+      "summary": "# INSTITUTIONAL WEALTH ADVISORY REPORT\n\n**Prepared By:** Elite AI Wealth Advisor Assistant  \n**Client Name:** David Sterling (ID: C002)  \n**Client Tier:** Ultra High Net Worth Emerging  \n**Relationshi..."
+    }
+  ],
+  "cumulative_notes": "Client has recurring anomaly flags (2 in latest session). Continuous monitoring advised.",
+  "last_updated": 1791706874.53538
+}
